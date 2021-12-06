@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qual_items">
+        <item name="primary">Primary Education</item>
+        <item name="secondary">Secondary Education</item>
+        <item name="higher">Higher Secondary</item>
+        <item name="graduate">Graduation</item>
+        <item name="post_grad">Post Graduation</item>
+        <item name="phd">PhD</item>
+    </string-array>
+</resources>

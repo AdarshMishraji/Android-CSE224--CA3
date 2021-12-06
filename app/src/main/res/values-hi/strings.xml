@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CA-3</string>
+    <string name='title'>प्रपत्र</string>
+    <string name="name_hint">अपना नाम दर्ज करें</string>
+    <string name="email_hint">अपना ईमेल पता दर्ज करें</string>
+    <string name="select_gender">लिंग चुनें</string>
+    <string name="gender_male">पुस्र्ष</string>
+    <string name="gender_female">महिला</string>
+    <string name="select_highest_qual">उच्चतम योग्यता का चयन करें</string>
+    <string name="my_info">"
+        नाम : आदर्श मिश्रा \n
+        रोल नंबर: 69 \n
+        पंजीकरण संख्या: 11910201 \n
+        धारा: KO103
+    "</string>
+    <string name="about_me">मेरे बारे में</string>
+    <string name="close">बंद करे</string>
+    <string name="tnc">मुझे नियम व शर्तें मंजूर हैं</string>
+    <string name='submit'>जमा करें</string>
+    <string name="name_title">नाम</string>
+    <string name="email_title">ईमेल</string>
+    <string name="gender_title">लिंग</string>
+    <string name="highest_qual">उच्चतम योग्यता</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qual_items">
+        <item name="primary">प्राथमिक शिक्षा</item>
+        <item name="secondary">माध्यमिक शिक्षा</item>
+        <item name="higher">उच्च माध्यमिक</item>
+        <item name="graduate">ग्रेजुएशन</item>
+        <item name="post_grad">पोस्ट ग्रेजुएशन</item>
+        <item name="phd">पीएचडी</item>
+    </string-array>
+</resources>

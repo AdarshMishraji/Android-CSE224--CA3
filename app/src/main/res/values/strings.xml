@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CA-3</string>
+    <string name="title">Form</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your email address</string>
+    <string name="select_gender">Select gender</string>
+    <string name="gender_male">Male</string>
+    <string name="select_highest_qual">Select highest qualification</string>
+    <string name="gender_female">Female</string>
+    <string name="my_info">"
+        Name: Adarsh Mishra \n
+        Roll No.: 69 \n
+        Reg No.: 11910201 \n
+        Section: KO103
+    "</string>
+    <string name="about_me">About Me</string>
+    <string name="close">Close</string>
+    <string name="tnc">I accept the Terms and Conditions</string>
+    <string name="submit">Submit</string>
+    <string name="name_title">Name</string>
+    <string name="email_title">Email</string>
+    <string name="gender_title">Gender</string>
+    <string name="highest_qual">Highest Qualification</string>
+</resources>
