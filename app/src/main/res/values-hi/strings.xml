@@ -21,4 +21,5 @@
     <string name="email_title">ईमेल</string>
     <string name="gender_title">लिंग</string>
     <string name="highest_qual">उच्चतम योग्यता</string>
+    <string name="back">वापस</string>
 </resources>
